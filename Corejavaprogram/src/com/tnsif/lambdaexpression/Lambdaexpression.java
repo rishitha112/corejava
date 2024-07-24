@@ -10,6 +10,7 @@ public class Lambdaexpression {
 		li.add(6);
 		li.add(7);
 		
+		li.forEach(ele->System.out.println(ele));
 		
 	}
 
